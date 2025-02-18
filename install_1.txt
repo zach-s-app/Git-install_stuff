@@ -1,0 +1,8 @@
+pkg install nano
+pkg install sudo
+pkg install nyancat
+pkg install figlet
+pkg install wget
+pkg install python3
+pkg install date
+git clone https://github.com/zach-s-app/installs-install.git
