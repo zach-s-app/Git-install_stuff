@@ -1,0 +1,12 @@
+bash install-1
+cd 1
+bash install-2
+cd 2
+bash install-3
+bash 3
+cd
+cd 1
+bash 2
+cd 
+cd 1
+bash 1
