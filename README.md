@@ -1,1 +1,1 @@
-# Git-install_stuff
+installs stuff that I make it to install I made this actually for myself but you can randomly get something if you use it so ya
